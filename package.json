@@ -1,15 +1,14 @@
 {
   "name": "@yonyou-cloud/vue-ueditor",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "a wrapper of UEditor for vue 2.x",
-  "author": "津玮<cia.fbi.007@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SilentTiger/vue-ueditor.git"
+    "url": "git+https://github.com/yonyou-cloud/vue-ueditor.git"
   },
-  "homepage": "https://github.com/SilentTiger/vue-ueditor#readme",
+  "homepage": "https://github.com/yonyou-cloud/vue-ueditor#readme",
   "bugs": {
-    "url": "https://github.com/SilentTiger/vue-ueditor/issues"
+    "url": "https://github.com/yonyou-cloud/vue-ueditor/issues"
   },
   "private": false,
   "scripts": {
@@ -18,7 +17,7 @@
     "lint": "eslint --ext .js,.vue src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "./src/index.js",
+  "main": "./dist/vue-ueditor.js",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^7.1.4",

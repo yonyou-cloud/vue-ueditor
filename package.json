@@ -1,6 +1,6 @@
 {
   "name": "@yonyou-cloud/vue-ueditor",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "a wrapper of UEditor for vue 2.x",
   "repository": {
     "type": "git",
